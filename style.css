@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+
+.cell:hover {
+    stroke: #000;
+}
+
+h2 {
+    margin-bottom: -2rem;
+}
